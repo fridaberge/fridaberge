@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Frida Berge
+
+Computer Science graduate specialized in robotics and intelligent systems from the University of Oslo.
+
+I have practical experience in robotic control, embedded systems, FPGA/SoC development and AI/ML, with projects involving ROS2, Gazebo, Arduino, VHDL, C and Python.
+
+I am especially interested in robotics, embedded systems, control systems and intelligent autonomous technologies.
