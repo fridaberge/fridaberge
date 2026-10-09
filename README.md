@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **fridaberge/fridaberge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Frida Berge
+## Hi 👋, I'm Frida Berge
 
 Computer Science graduate specialized in robotics and intelligent systems from the University of Oslo.
 
