@@ -40,7 +40,6 @@ I am especially interested in robotics, embedded systems, control systems and in
 - BSc in Informatics: Robotics and Intelligent Systems, University of Oslo
 - Exchange semester at City University of Hong Kong
 - Teaching Assistant in Introduction to Robotics at the University of Oslo
-- Eligible for Hong Kong’s Top Talent Pass Scheme
 
 ## Contact
 
