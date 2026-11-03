@@ -30,7 +30,7 @@ I am especially interested in robotics, embedded systems, control systems and in
 ## Technical Skills
 
 **Programming:** Python, Java, C, SQL, VHDL, Assembly, HTML/CSS  
-**Robotics & Control:** ROS2, Gazebo, kinematics, dynamics, PD/PID control  
+**Robotics & Control:** ROS, Gazebo, kinematics, dynamics, PD/PID control  
 **Embedded Systems:** Arduino, FPGA, Zynq/ZedBoard SoC, PWM, sensors, Vivado/Vitis  
 **AI/ML:** supervised learning, neural networks, classification, PCA, evolutionary algorithms  
 **Tools:** Git, Linux, LaTeX, Jupyter Notebook, VS Code
