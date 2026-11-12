@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I am a Computer Science graduate specialized in robotics and intelligent systems from the University of Oslo.
 
-I have practical experience in robotic control, embedded systems, FPGA/SoC development and AI/ML, with projects involving ROS2, Gazebo, Arduino, VHDL, C and Python.
+I have practical experience in robotic control, embedded systems, FPGA/SoC development, Algorithms and AI/ML, with projects involving ROS, Gazebo, Arduino, VHDL, C, Python and Java.
 
 I am especially interested in robotics, embedded systems, control systems and intelligent autonomous technologies.
 
